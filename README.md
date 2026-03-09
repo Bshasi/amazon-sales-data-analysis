@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis
+ Amazon Sales Data Analysis
 
 This project analyzes Amazon sales data using SQL queries and an interactive Excel dashboard.
 
