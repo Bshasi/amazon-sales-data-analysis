@@ -19,3 +19,13 @@ https://docs.google.com/spreadsheets/d/19nMmYc44S_MfpFePWoV8-vvqTrfGV72n/edit?us
 - California and Texas contributed the highest revenue among states.
 - Sales peak during the last months of the year, especially November and December.
 - The average order value is around 80–90 per order.
+## Dashboard Preview
+
+### Monthly Sales
+![Monthly Sales](Monthly sales.png)
+
+### Top States by Revenue
+![Top States](Top States by revenue.png)
+
+### Vendor Performance
+![Vendor Performance](Vendor performance by revenue.png)
